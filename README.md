@@ -6,3 +6,4 @@ To perform these actions, the process involves crafting simple REST requests tha
 
 In this example, we will send a request to either Google's or CloudFlare's DNS servers to obtain license data. This process involves making a DNS query to retrieve information associated with a specific domain name. By leveraging the reliable services of these well-known DNS providers, we can efficiently gather the necessary license information for our application or system. This approach ensures quick response times and high availability, making it an effective method for handling license data retrieval.
 
+[LicenseDNS.net](https://www.LicenseDNS.net/)
