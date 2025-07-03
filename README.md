@@ -1,4 +1,4 @@
-# License Query using DOH
+# License Validation, Activation and Deactivation using DOH
 
 Public DNS servers offer support for DNS over HTTPS (DoH), which enhances security and privacy by encrypting DNS queries. This feature enables users to activate and deactivate licenses by sending DNS queries to well-known public DNS servers, such as Google (8.8.8.8) and CloudFlare (1.1.1.1). 
 
